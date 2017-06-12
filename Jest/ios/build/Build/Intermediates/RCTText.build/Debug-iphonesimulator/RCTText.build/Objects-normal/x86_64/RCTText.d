@@ -1,0 +1,21 @@
+dependencies: \
+  /Users/john/AwesomeProject/node_modules/react-native/Libraries/Text/RCTText.m \
+  /Users/john/AwesomeProject/node_modules/react-native/Libraries/Text/RCTText.h \
+  /Users/john/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/john/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/john/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/john/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
+  /Users/john/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/john/AwesomeProject/node_modules/react-native/Libraries/Text/RCTShadowText.h \
+  /Users/john/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView.h \
+  /Users/john/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Users/john/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/john/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/john/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/john/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/john/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/john/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/john/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/john/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/john/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/john/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h

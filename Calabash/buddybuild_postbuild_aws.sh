@@ -55,3 +55,4 @@ RUN_ARN=${RUN_ARN//\"}
 echo $RUN_RESULT
 echo $RUN_ARN
 echo "===== Build Sent to DeviceFarm"
+echo "NOTE: All test results will only be available on DeviceFarm, not buddybuild."

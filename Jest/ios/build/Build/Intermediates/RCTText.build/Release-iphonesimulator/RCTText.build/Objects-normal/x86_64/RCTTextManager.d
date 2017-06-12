@@ -1,0 +1,32 @@
+dependencies: \
+  /Users/john/AwesomeProject/node_modules/react-native/Libraries/Text/RCTTextManager.m \
+  /Users/john/AwesomeProject/node_modules/react-native/Libraries/Text/RCTTextManager.h \
+  /Users/john/AwesomeProject/ios/build/Build/Products/Release-iphonesimulator/include/React/RCTViewManager.h \
+  /Users/john/AwesomeProject/ios/build/Build/Products/Release-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/john/AwesomeProject/ios/build/Build/Products/Release-iphonesimulator/include/React/RCTDefines.h \
+  /Users/john/AwesomeProject/ios/build/Build/Products/Release-iphonesimulator/include/React/RCTConvert.h \
+  /Users/john/AwesomeProject/ios/build/Build/Products/Release-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/john/AwesomeProject/ios/build/Build/Products/Release-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/john/AwesomeProject/ios/build/Build/Products/Release-iphonesimulator/include/React/RCTLog.h \
+  /Users/john/AwesomeProject/ios/build/Build/Products/Release-iphonesimulator/include/React/RCTAssert.h \
+  /Users/john/AwesomeProject/ios/build/Build/Products/Release-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/john/AwesomeProject/ios/build/Build/Products/Release-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/john/AwesomeProject/ios/build/Build/Products/Release-iphonesimulator/include/yoga/Yoga.h \
+  /Users/john/AwesomeProject/ios/build/Build/Products/Release-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/john/AwesomeProject/ios/build/Build/Products/Release-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/john/AwesomeProject/ios/build/Build/Products/Release-iphonesimulator/include/React/RCTEventDispatcher.h \
+  /Users/john/AwesomeProject/ios/build/Build/Products/Release-iphonesimulator/include/React/RCTBridge.h \
+  /Users/john/AwesomeProject/ios/build/Build/Products/Release-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/john/AwesomeProject/ios/build/Build/Products/Release-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/john/AwesomeProject/ios/build/Build/Products/Release-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/john/AwesomeProject/ios/build/Build/Products/Release-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/john/AwesomeProject/ios/build/Build/Products/Release-iphonesimulator/include/React/UIView+React.h \
+  /Users/john/AwesomeProject/ios/build/Build/Products/Release-iphonesimulator/include/React/RCTComponent.h \
+  /Users/john/AwesomeProject/ios/build/Build/Products/Release-iphonesimulator/include/React/RCTAccessibilityManager.h \
+  /Users/john/AwesomeProject/node_modules/react-native/Libraries/Text/RCTShadowRawText.h \
+  /Users/john/AwesomeProject/ios/build/Build/Products/Release-iphonesimulator/include/React/RCTShadowView.h \
+  /Users/john/AwesomeProject/ios/build/Build/Products/Release-iphonesimulator/include/React/RCTRootView.h \
+  /Users/john/AwesomeProject/node_modules/react-native/Libraries/Text/RCTShadowText.h \
+  /Users/john/AwesomeProject/node_modules/react-native/Libraries/Text/RCTText.h \
+  /Users/john/AwesomeProject/node_modules/react-native/Libraries/Text/RCTTextView.h \
+  /Users/john/AwesomeProject/ios/build/Build/Products/Release-iphonesimulator/include/React/RCTView.h
